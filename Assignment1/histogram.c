@@ -1,4 +1,4 @@
-//Kshitij Bantuoakku
+//Kshitij Bantupalli
 
 #include<stdio.h>
 #include<stdlib.h>
